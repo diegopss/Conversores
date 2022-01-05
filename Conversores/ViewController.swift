@@ -38,7 +38,7 @@ class ViewController: UIViewController {
             btUnit1.setTitle("Metro", for: .normal)
             btUnit2.setTitle("Kilômetro", for: .normal)
         default:
-            lbUnit.text = "Peso"
+            lbUnit.text = "Temperatura"
             btUnit1.setTitle("Celcius", for: .normal)
             btUnit2.setTitle("Farenheint", for: .normal)
         
